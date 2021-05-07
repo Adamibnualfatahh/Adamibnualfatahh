@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Ibnu Alfatah</h1>
-- 🌱 I’m currently learning **programming**
+- 🌱 I’m currently learning programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
