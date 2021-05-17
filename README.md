@@ -2,10 +2,10 @@
 <p align="center">🌱 I’m currently learning programming</p>
 
 <h3 align="left">Connect with me:</h3>
-![age](https://img.shields.io/badge/age-17-red)
-<a href="https://t.me/adamibnu175" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a>
-<a href="https://instagram.com/adami_ibnu025" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:adamibnu157@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://twitter.com/404_conn_error" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://t.me/adamibnu175" target="_blank"><img src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&logo=telegram" alt="Telegram"></a>
+<a href="https://instagram.com/adam_ibnu025" target="_blank"><img src="https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:adamibnu157@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-1ca0f1?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 
 
 <h3 align="left">Some of the Languages and Tools I Use:</h3>
@@ -13,7 +13,8 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamibnu123&show_icons=true&locale=en&layout=compact" alt="adamibnu123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamibnu123&show_icons=true&locale=en&layout=compact" alt="adamibnu123" />
+</p>
 
 ![Adam Ibnu GitHub stats](https://github-readme-stats.vercel.app/api?username=Adamibnu123&show_icons=true&theme=tokyonight)
 
