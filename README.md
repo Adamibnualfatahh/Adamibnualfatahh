@@ -2,7 +2,7 @@
 <p align="center">🌱 I’m currently learning programming</p>
 
 <h3 align="left">Connect with me:</h3>
-![age](https://img.shields.io/badge/age-17-blue)
+![age](https://img.shields.io/badge/age-17-red)
 <a href="https://t.me/adamibnu175" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a>
 <a href="https://instagram.com/adami_ibnu025" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="mailto:adamibnu157@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
