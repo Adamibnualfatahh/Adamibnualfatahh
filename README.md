@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/Adamibnu123?v=4)
+![Profile views](https://gpvc.arturio.dev/Adamibnualfatahh?v=4)
 <h3 align="center">
         <samp>&gt; Hello World!, I am
                 <b><a target="_blank">Adam Ibnu Alfatah</a></b>
@@ -16,11 +16,11 @@
     <p align="center">
         <br>
         <!-- white board -->
-        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamibnu123&show_icons=true&locale=en&layout=compact" alt="adamibnu123" />
+        <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adamibnualfatahh&show_icons=true&locale=en&layout=compact" alt="adamibnu123" />
         </p>
         <br>
  <img alt="Shahriar Adam Ibnu A GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Adamibnu123&show_icons=true&theme=radical" />
+                src="https://github-readme-stats.vercel.app/api?username=Adamibnualfatahh&show_icons=true&theme=radical" />
         <!-- contac -->
   <p><i>Find me on:</i></p>
         <a href="https://twitter.com/404_conn_error" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
