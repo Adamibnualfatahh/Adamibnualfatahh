@@ -43,6 +43,4 @@
   <samp>Stay curious and keep coding! 🚀</samp>
 </p>
 
-<p align="center">
 [![Waka Waka](https://img.youtube.com/vi/pRpeEdMmmQ0/0.jpg)](https://www.youtube.com/watch?v=pRpeEdMmmQ0)
-</p>
