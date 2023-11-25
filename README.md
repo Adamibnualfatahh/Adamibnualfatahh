@@ -7,6 +7,7 @@
 
 <!-- Badges and Skills -->
 <p align="center">
+  <img src="https://img.shields.io/badge/-Golang-blue?style=flat&logo=go" alt="Golang">
   <img src="https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel" alt="Laravel">
   <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React">
   <img src="https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js" alt="Vue.js">
@@ -18,7 +19,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Hey there! I'm a passionate learner currently navigating the exciting realm of programming. My journey involves a love for Laravel, React, Vue.js, Python, Node.js, MongoDB, and PostgreSQL.
+  Hey there! I'm a passionate learner currently navigating the exciting realm of programming. My journey involves a love for Golang, Laravel, React, Vue.js, Python, Node.js, MongoDB, and PostgreSQL.
 </p>
 
 <!-- GitHub Stats -->
