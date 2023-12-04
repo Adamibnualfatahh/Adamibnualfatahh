@@ -8,18 +8,19 @@
 <!-- Badges and Skills -->
 <p align="center">
   <img src="https://img.shields.io/badge/-Golang-blue?style=flat&logo=go" alt="Golang">
-  <img src="https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel" alt="Laravel">
   <img src="https://img.shields.io/badge/-React-blue?style=flat&logo=react" alt="React">
+  <img src="https://img.shields.io/badge/-PostgreSQL-light?style=flat&logo=postgresql" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/-Vue.js-green?style=flat&logo=vue.js" alt="Vue.js">
-  <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-MongoDB-green?style=flat&logo=mongodb" alt="MongoDB">
-  <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-express-green?style=flat&logo=express" alt="express">
+  <img src="https://img.shields.io/badge/-Python-yellow?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel" alt="Laravel">
 </p>
 
 <!-- Introduction -->
 <p align="center">
-  Hey there! I'm a passionate learner currently navigating the exciting realm of programming. My journey involves a love for Golang, Laravel, React, Vue.js, Python, Node.js, MongoDB, and PostgreSQL.
+  Hey there! I'm a passionate learner currently navigating the exciting realm of programming. My journey involves a love for Golang, Laravel, React, Vue.js, Python, Node.js, MongoDB, and PostgreSQL, Express.
 </p>
 
 <!-- GitHub Stats -->
