@@ -25,14 +25,18 @@
 
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
-<p align="center">
+<!-- <p align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adamibnualfatahh" />
         </a>
         <a href="https://github.com/anuraghazra/convoychat">
           <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adamibnualfatahh&layout=compact&langs_count=10&exclude_repo=attendance,e-voting,hugo-personal-website,personal-blog&card_width=320" />
         </a>
-</p>
+</p> -->
+
+<div align="center">
+  <img src="https://github.com/Adamibnualfatahh/Adamibnualfatahh/blob/main/github-metrics.svg" alt="Metrics" width="100%">
+</div>
 
 <!-- Contact and Closing -->
 <h2 align="center">Connect with Me</h2>
