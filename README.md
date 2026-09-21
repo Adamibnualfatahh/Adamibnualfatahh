@@ -41,7 +41,7 @@
 <!-- Contact and Closing -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  Feel free to drop me a line at adamibnu157@gmail.com
+  Feel free to drop me a line at halo@adamibnu.my.id
 </p>
 
 <!-- Closing Message -->
